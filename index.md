@@ -12,3 +12,6 @@ James Bond, Agent 007, ist ein von Ian Fleming erfundener Geheimagent, der für 
 ## Zitat
  > „Ein bezaubernder Hauch von Nichts, 
  > den Sie da beinahe anhaben. Gefällt mir.“
+
+
+<img src= "https://vignette.wikia.nocookie.net/bondwiki/images/6/68/Alle_James_Bond_Darsteller.jpg/revision/latest?cb=20150402193034"/> 
