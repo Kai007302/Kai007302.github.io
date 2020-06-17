@@ -7,3 +7,8 @@ James Bond, Agent 007, ist ein von Ian Fleming erfundener Geheimagent, der für 
 * Kaltblütigkeit
 * Zielgenauigkeit
 * Körperliche Stärke
+
+
+## Zitat
+ > „Ein bezaubernder Hauch von Nichts, 
+ > den Sie da beinahe anhaben. Gefällt mir.“
